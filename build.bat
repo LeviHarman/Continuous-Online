@@ -1,0 +1,1 @@
+g++ main.cpp -o -LC:\libraries\SFML-2.1\lib -IC:\libraries\SFML-2.1\include -lsfml-graphics -lsfml-window -lsfml-system
